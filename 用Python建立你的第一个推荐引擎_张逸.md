@@ -1,8 +1,11 @@
-﻿# 用Python建立你的第一个推荐引擎
+# 用Python建立你的第一个推荐引擎
 
 **原文标题：Quick Guide to Build a Recommendation Engine in Python**
+
 **作者： AARSHAY JAIN**
+
 **翻译：张逸**
+
 **原文链接：**[https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/)
 
 在数据科学中，不管你是新手还是经验丰富的专业人士，自己做一些项目总是会给你的简历添彩。而我写这篇文章的目的就是让你从推荐系统开始，构建一个自己的项目。（如果你很难获得开放的数据，请在评论中告诉我）
